@@ -4,7 +4,7 @@ To start crawling use the command:
 
 Configurations used can be seen in settings.py file
 
-depth0.txt shows log of crawling "https://www,gmail.com" with no depth limit
+depth0.txt shows log of crawling "https://www,gmail.com" with no depth limit (crawling was forcefully terminated for this particular crawl)
 depth1.txt shows log of crawling "https://www,gmail.com" with depth limit set as 1
 depth2.txt shows log of crawling "https://www,gmail.com" with depth limit set as 2
 
